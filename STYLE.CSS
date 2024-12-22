@@ -1,0 +1,30 @@
+.k {
+    height: 65px;
+    width: 350px;
+    margin-right: 200px;
+    background-image: url("2.png");
+    border-radius: 30px;
+
+
+
+}
+
+
+.hover{
+    border-color: black;
+    
+}
+
+
+.cardss {
+    display: flex;
+    justify-content:space-evenly;
+    margin-bottom: 50 px;
+    padding-bottom: 50px;
+    
+}
+
+.cardx {
+    display: flex;
+    justify-content:space-evenly;
+}
